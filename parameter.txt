@@ -1,0 +1,29 @@
+# Parameters for energy_analysis.py
+
+--sim-file data/Current/photon_secondary_spectrum.txt
+--dts-file data/Current/dts.txt
+--remain-time 10
+--chart-style step
+
+# Background intervals
+--pre-bg-start 2
+--pre-bg-end 0.2
+--post-bg-start 0.3
+--post-bg-end 2
+
+# Output files
+--det-output detected_counts.txt
+--det-plot detected_lightcurve.png
+
+--show-rise Y
+
+# Swift FIT files
+--area-csv data/SWEffectiveArea.csv
+--bin-width 0.064
+--energy-bins 15,350
+
+# Fermi NaI files
+#--area-csv data/FermiNaI.csv
+#--source fermi
+#--bin-width 0.002
+#--energy-bins 8,200
