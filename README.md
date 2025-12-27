@@ -2,10 +2,13 @@
 This repository provides a toolkit for performing energy-based data analysis, statistical modeling, and batch execution of analysis tasks. It is designed to support configurable analysis workflows through parameter files and reusable utility modules.
 
 1. Repository Structure
-.
+
 ├── energy_analysis.py      # Main analysis script
+
 ├── batch_run.py            # Batch execution script
+
 ├── parameter.txt           # Configuration parameters for analysis
+
 ├── util/
 │   ├── filelib.py          # File I/O utilities
 │   ├── likelihood.py       # Likelihood and model-related functions
@@ -13,7 +16,7 @@ This repository provides a toolkit for performing energy-based data analysis, st
 │   └── plotlib.py          # Plotting and visualization utilities
 
 
-2. Description of Components
+3. Description of Components
 (a) energy_analysis.py
 
 The main analysis script. It performs energy-based analysis using parameters defined in parameter.txt, and relies on helper functions provided in the util module.
@@ -74,6 +77,4 @@ Use batch_run.py to automate large-scale or repetitive analyses.
 
 6. Contact
 
-Kally Wen
-Lynbrook High School
-kallywen@gmail.com
+Kally Wen, Lynbrook High School, kallywen@gmail.com
