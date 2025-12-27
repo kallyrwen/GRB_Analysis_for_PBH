@@ -20,7 +20,7 @@ This repository provides a toolkit for performing energy-based data analysis, st
 │   └── plotlib.py          # Plotting and visualization utilities
 
 
-3. Description of Components
+2. Description of Components
 (a) energy_analysis.py
 
 The main analysis script. It performs energy-based analysis using parameters defined in parameter.txt, and relies on helper functions provided in the util module.
