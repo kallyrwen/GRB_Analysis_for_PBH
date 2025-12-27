@@ -4,12 +4,19 @@ This repository provides a toolkit for performing energy-based data analysis, st
 1. Repository Structure
 
 ├── energy_analysis.py      # Main analysis script
+
 ├── batch_run.py            # Batch execution script
+
 ├── parameter.txt           # Configuration parameters for analysis
+
 ├── util/
+
 │   ├── filelib.py          # File I/O utilities
+
 │   ├── likelihood.py       # Likelihood and model-related functions
+
 │   ├── statslib.py         # Statistical analysis utilities
+
 │   └── plotlib.py          # Plotting and visualization utilities
 
 
