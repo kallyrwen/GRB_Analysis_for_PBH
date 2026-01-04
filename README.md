@@ -21,6 +21,7 @@ This repository provides a toolkit for performing energy-based data analysis, st
 
 
 2. Description of Components
+
 (a) energy_analysis.py
 
 The main analysis script. It performs energy-based analysis using parameters defined in parameter.txt, and relies on helper functions provided in the util module.
