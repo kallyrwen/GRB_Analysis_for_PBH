@@ -4,7 +4,7 @@
 #
 #   Author: Kally Wen
 #           Lynbrook High School
-#           kallywen@gmail.com
+#           kallyrwen@gmail.com
 #
 #   Last modification: Dec 15, 2025
 #
