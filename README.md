@@ -83,4 +83,4 @@ Use batch_run.py to automate large-scale or repetitive analyses.
 
 6. Contact
 
-Kally Wen, Lynbrook High School, kallywen@gmail.com
+Kally Wen, Lynbrook High School, kallyrwen@gmail.com
