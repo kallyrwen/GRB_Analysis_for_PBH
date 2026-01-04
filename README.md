@@ -60,6 +60,7 @@ Common scientific Python libraries (e.g., numpy, scipy, matplotlib)
 
 
 4. Usage
+
 Example of running a Single Analysis
 >> python3 energy_analysis.py --param-file parameter.txt --fits-file $FIT_FILE_PATH$
 
